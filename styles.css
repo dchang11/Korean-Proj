@@ -35,7 +35,10 @@ h2 {
   margin-top: 0;
   margin-bottom: 30px;
   font-weight: 600;
-  font-size: 1.5rem;
+  font-size: 2.5rem;      /* Increased size */
+  background-color: #d0e1ff; /* Light blue background */
+  padding: 15px 0;        /* Add some vertical padding */
+  border-radius: 8px;     /* Rounded corners */
 }
 
 .map {
