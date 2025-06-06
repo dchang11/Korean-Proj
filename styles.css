@@ -29,16 +29,17 @@ h1 {
   letter-spacing: 2px;
 }
 
+/* Bigger and background-colored h2 */
 h2 {
   text-align: center;
   color: #444;
   margin-top: 0;
   margin-bottom: 30px;
   font-weight: 600;
-  font-size: 2.5rem;      /* Increased size */
-  background-color: #d0e1ff; /* Light blue background */
-  padding: 15px 0;        /* Add some vertical padding */
-  border-radius: 8px;     /* Rounded corners */
+  font-size: 2.5rem;             /* Bigger font size */
+  background-color: #d0e1ff;     /* Light blue background */
+  padding: 15px 0;               /* Vertical padding */
+  border-radius: 8px;            /* Rounded corners */
 }
 
 .map {
@@ -87,4 +88,3 @@ h2 {
   margin-top: 0;
   color: #2e5bff;
 }
-
